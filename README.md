@@ -167,7 +167,7 @@ Contributions, ideas and suggestions are welcome as the project grows.
 ---
 
 <p align="center">
-  **MY LIFE**
+  ## MY LIFE
   <br/>
   Your life. Your space. Your progress.
 </p>
